@@ -6,7 +6,7 @@ Este repositório foi desenvolvido como parte do desafio da DIO com o objetivo d
 
 Durante o laboratório foi possível compreender como o CloudFormation automatiza a criação e o gerenciamento de recursos na AWS por meio de Stacks, facilitando a padronização dos ambientes e reduzindo a necessidade de configurações manuais.
 
----
+
 
 ## Objetivos do desafio
 
@@ -16,7 +16,6 @@ Durante o laboratório foi possível compreender como o CloudFormation automatiz
 - Identificar os benefícios da automação de infraestrutura;
 - Utilizar o GitHub para documentar o aprendizado.
 
----
 
 ##  Tecnologias utilizadas
 
@@ -28,7 +27,7 @@ Durante o laboratório foi possível compreender como o CloudFormation automatiz
 
 
 
-## 📚 Conteúdos estudados
+##  Conteúdos estudados
 
 Durante o laboratório foram abordados os seguintes temas:
 
